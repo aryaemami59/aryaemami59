@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey, I'm Arya.
+![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FArya_Emami_dev)
 
 <!--
 **aryaemami59/aryaemami59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
