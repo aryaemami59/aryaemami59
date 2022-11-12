@@ -1,5 +1,5 @@
 ### Hey, I'm Arya.
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FArya_Emami_dev)
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FArya_Emami_dev">
 <!--
 **aryaemami59/aryaemami59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
