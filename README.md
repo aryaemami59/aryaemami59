@@ -34,8 +34,8 @@
 
 - 🧑‍💻 Full-stack developer based in **Plano, TX**.
 - ⚛️ I work across the **Redux / TypeScript** ecosystem and developer tooling.
-- 🛠️ Author of projects like [`eslint-plugin-redux-toolkit`](https://github.com/aryaemami59/eslint-plugin-redux-toolkit), Redux + TypeScript starter templates, and bundle-size tooling.
-- 🎮 I like video games, UFC, and coding.
+<!-- - 🛠️ Author of projects like [`eslint-plugin-redux-toolkit`](https://github.com/aryaemami59/eslint-plugin-redux-toolkit), Redux + TypeScript starter templates, and bundle-size tooling. -->
+- 🎮 I like video games, UFC <img src="https://cdn.simpleicons.org/ufc/D20A0A" height="18" alt="UFC" />, and coding.
 - 🗣️ My name is pronounced **"AR-ree-yaw"**.
 
 <!-- ===================== CONNECT ===================== -->
@@ -47,6 +47,12 @@
   <img
     src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
     alt="X (Twitter)"
+  />
+</a>
+<a href="https://bsky.app/profile/aryaemami59.bsky.social" target="_blank" rel="noreferrer">
+  <img
+    src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"
+    alt="Bluesky"
   />
 </a>
 <a href="https://www.linkedin.com/in/aryaemami" target="_blank" rel="noreferrer">
@@ -105,59 +111,5 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />
 </p>
-
-</div>
-
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Stats
-
-<!--
-  SELF-HOST NOTE (github-stats-extended):
-  The two cards below render via the public successor instance
-  (github-stats-extended.vercel.app), the actively maintained fork of github-readme-stats.
-  Self-hosting is optional now that the public instance is up; deploy your own only if you
-  want guaranteed uptime / private-data counts:
-    1. Fork https://github.com/stats-organization/github-stats-extended
-       (or use its one-click "Deploy to Vercel" button).
-    2. Deploy the fork to Vercel.
-    3. Add env var PAT_1 = a GitHub Personal Access Token (classic or fine-grained; minimal
-       scopes for public data). See docs/deploy.md (step 10).
-    4. Replace every `github-stats-extended.vercel.app` below with `<your-app>.vercel.app`.
--->
-
-<div align="center">
-
-<img
-  height="170"
-  src="https://github-stats-extended.vercel.app/api?username=aryaemami59&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-  alt="Arya's GitHub stats"
-/>
-<img
-  height="170"
-  src="https://github-stats-extended.vercel.app/api/top-langs?username=aryaemami59&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  alt="Arya's most used languages"
-/>
-
-<br />
-
-<img
-  src="https://streak-stats.demolab.com/?user=aryaemami59&theme=tokyonight&hide_border=true"
-  alt="Arya's GitHub streak"
-/>
-
-<br />
-
-<!--
-  SELF-HOST NOTE (github-profile-trophy):
-  The public instance (github-profile-trophy.vercel.app) is currently disabled and returns
-  402 DEPLOYMENT_DISABLED, so the trophy row below will be a broken image until you self-host.
-    1. Fork https://github.com/ryo-ma/github-profile-trophy
-    2. Deploy the fork to Vercel (optionally set GITHUB_TOKEN to avoid rate limits).
-    3. Replace `github-profile-trophy.vercel.app` below with `<your-trophy>.vercel.app`.
--->
-<img
-  src="https://github-profile-trophy.vercel.app/?username=aryaemami59&theme=tokyonight&no-frame=true&margin-w=4&column=7"
-  alt="Arya's GitHub trophies"
-/>
 
 </div>
